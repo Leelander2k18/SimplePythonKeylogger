@@ -1,7 +1,7 @@
 <h1>Creating a Simple Keylogger using Python</h1>
 
 <h2>Description</h2>
-Project consists of creating a simple keylogger tool using python script. In this project, I developed a simple keylogger using the Thonny IDE for python.
+This project consists of creating a simple keylogger tool using python script. In this project, I developed a simple keylogger using the Thonny IDE for python.
 <br />
 
 
